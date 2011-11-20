@@ -1,10 +1,3 @@
-/**
- * Created by JetBrains WebStorm.
- * User: kimuram
- * Date: 11/11/20
- * Time: 22:00
- * To change this template use File | Settings | File Templates.
- */
 define(function() {
     var routes = {'list' : {hash:'#list', controller:'ListController'},
         'add':{hash:'#add', controller:'AddController'}};

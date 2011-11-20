@@ -1,10 +1,3 @@
-/**
- * Created by JetBrains WebStorm.
- * User: kimuram
- * Date: 11/11/20
- * Time: 21:25
- * To change this template use File | Settings | File Templates.
- */
 define(function() {
     function render(parameters) {
         var appDiv = document.getElementById('app');
